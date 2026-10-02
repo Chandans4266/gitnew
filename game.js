@@ -24,3 +24,4 @@ if (!won) {
 }
 
 console.log("Thanks for playing!");
+console.log("You had " + attempts + " attempts left.");
