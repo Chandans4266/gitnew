@@ -20,5 +20,7 @@ while (attempts > 0) {
 }
 
 if (!won) {
-    console.log("Game over! The number was " + secretNumber);
+    console.log("Game over! The number was " + secretNumber)
 }
+
+console.log("Thanks for playing!");
